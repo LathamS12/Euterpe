@@ -1,0 +1,30 @@
+Piano quiz game
+
+Version 2.0
+
+Add features
+diatonic major & 7th chords
+
+Allow free play notes to run 
+to multiple lines
+
+Also need this in chords
+
+GUI
+reimplement as pygame gui
+separate gui into its own file
+options gui/heads up display
+
+Keyboard gui
+
+Piano staff gui
+get staff image? or draw
+get note images
+get notes working
+
+
+Refactoring
+
+bug fixes
+menu buttons don't work well coming from intervals or chords
+
