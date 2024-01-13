@@ -1,0 +1,30 @@
+Planned for Euterpe 2.0:
+
+Gui:
+	Run text onto multiple lines:
+		Free play 
+		Chords
+	Flat notes	
+	options gui/heads up display
+
+Quiz
+Add minor scale to degree quiz
+
+Piano staff gui
+	get staff image? or draw
+	get note images
+	get notes working w/key presses
+
+
+Tests
+	Music database tests
+
+Refactoring
+	separate gui into a class? if so, gui into its own file
+	Freeplay as a class, could then write & attach an analysis class
+	
+bug fixes
+free play is double counting inversions
+
+Longer term ideas:
+Keyboard gui
