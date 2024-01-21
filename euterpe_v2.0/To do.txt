@@ -1,0 +1,12 @@
+---------------------------------------
+Planned for Euterpe 3.0
+
+Analytics mode
+- Timer
+- High score
+- Record and save key presses/chords
+	
+Other ideas:
+- Add minor scale to chord degree quiz
+
+- Two-handed mode for chord quizzes
